@@ -1,0 +1,9 @@
+{
+    "libraryName": "validator",
+    "development": {
+        "libraryName": "validator.js"
+    },
+    "production": {
+        "libraryName": "validator.min.js"
+    }
+}
